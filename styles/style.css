@@ -433,5 +433,9 @@ a {
     .navbar a {
         font-size: 12px;
     }
+
+    :root {
+  --primary: #0ea5e9;
+}
 }
     
